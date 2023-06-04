@@ -196,7 +196,19 @@ color: #777;
 /* Sections */
 
 .section-row {
-display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.section-row .section {
+    margin-bottom: 20px;
+    flex: 1 1 30%;
+}
+
+.section-row a {
+    text-decoration: none;
 }
 
 .section {
