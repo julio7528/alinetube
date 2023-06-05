@@ -1,0 +1,80 @@
+{
+  "listStreaming": [
+    {
+      "id": "1",
+      "category": "tvOpen",
+      "title": "Rede Globo MT",
+      "link": "https://globoplay.globo.com/tv-globo/ao-vivo",
+      "target": "",
+      "image": "img/globo.png",
+      "imageAlt": "Glogo MT",
+      "description": "Site da Globo.com, precisa estar logado"
+    },
+
+    {
+      "id": "2",
+      "category": "channelNews",
+      "title": "CNN Brasil",
+      "link": "https://www.youtube.com/@CNNbrasil",
+      "target": "",
+      "image": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
+      "imageAlt": "Image do logo da CNN Brasil",
+      "description": "Canal do Youtube"
+    },
+
+    {
+      "id": "3",
+      "category": "streaming",
+      "title": "NetFlix",
+      "link": "https://www.netflix.com/br/",
+      "target": "",
+      "image": "https://th.bing.com/th/id/R.df7c249866b2de3b50eee84d6eb5f6be?rik=yZVkzw0wZ5pXlg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fnetflix%2fnetflix_PNG15.png&ehk=C%2fdQ70XhiUfd9fUZnyZUv1H30zYnMwTpYAZ0oxHbr10%3d&risl=&pid=ImgRaw&r=0",
+      "imageAlt": "Imagem do logo da NetFlix",
+      "description": "Streaming"
+    },
+
+    {
+      "id": "4",
+      "category": "tvOpen",
+      "title": "SBT Serra Dourada",
+      "link": "https://www.youtube.com/watch?v=_L130d1RK-w&ab_channel=TVSerraDouradaSBT",
+      "target": "",
+      "image": "img/sbt.png",
+      "imageAlt": "SBT MT",
+      "description": "Canal do Youtube, SBT de MT"
+    },
+
+    {
+      "id": "5",
+      "category": "tvOpen",
+      "title": "Rede Bandeirantes Brasil",
+      "link": "https://www.band.uol.com.br/ao-vivo",
+      "target": "",
+      "image": "img/band.png",
+      "imageAlt": "Bandeirantes",
+      "description": "Site da Band.com, precisa estar logado com o Google"
+    },
+
+    {
+      "id": "6",
+      "category": "tvOpen",
+      "title": "Rede Record Brasil",
+      "link": "https://tvonline.fm/tv-record/",
+      "target": "",
+      "image": "img/record.png",
+      "imageAlt": "Record",
+      "description": "Site Streaming da Record Duvidoso"
+    },
+
+    {
+      "id": "7",
+      "category": "channelNews",
+      "title": "Jovem Pan News",
+      "link": "https://www.youtube.com/@jovempannews",
+      "target": "",
+      "image": "https://vgbr.com/wp-content/uploads/2018/10/1165px-Jovem_Pan_FM_logo.svg_.png",
+      "imageAlt": "Jovem Pan News",
+      "description": "Canal do Youtube"
+    }
+  ]
+}

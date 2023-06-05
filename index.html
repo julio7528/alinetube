@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>MT sem TV AlineTube pra você :)</title>
         <link rel="stylesheet" href="styles.css">
-        <script src="script.js"></script>
     </head>
 <body>
     <header>
@@ -13,114 +12,41 @@
             <p></p>
             <h1>Home Streaming Pessoal</h1>
         </div>        
+
         <nav>
-        <ul>
-            <li><a href="index.html">Página Principal</a></li>
-            <li><a href="#">Sobre</a></li>
-            <li><a href="#">Contato</a></li>
-        </ul>
+            <ul>
+                <li><a href="index.html">Página Principal</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
         </nav>
     </header>
 
-<main>
-    <div class="category cat1">
-        <h3>TV Aberta</h3>
-        <div class="section-row">
-        <div class="section"> 
-            <div class="session-info"></div>           
-            <a href="https://globoplay.globo.com/tv-globo/ao-vivo" target="_blank">
-            <h4>Rede Globo MT</h4>
-            <img src="img/globo.png" alt="Glogo MT">
-            <p>Site da Globo.com, precisa estar logado</p>
-            </a>
-        </div>
-        <div class="section">
-            <a href="https://www.youtube.com/watch?v=_L130d1RK-w&ab_channel=TVSerraDouradaSBT" target="_blank">
-            <h4>SBT Serra Dourada</h4>
-            <img src="img/sbt.png" alt="SBT MT">
-            <p>Canal do Youtube, SBT de MT</p>
-            </a>
-        </div>
-        <div class="section">
-            <a href="https://www.band.uol.com.br/ao-vivo" target="_blank">
-            <h4>Rede Bandeirantes Brasil</h4>
-            <img src="img/band.png" alt="Bandeirantes">
-            <p>Site da Band.com, precisa estar logado com o Google</p>
-            </a>
-        </div>
-    </div>
-    
-    <div class="category cat2">
-        <!-- <h3>Categoria 2</h3> -->
-        <div class="section-row">
-        <div class="section">
-            <a href="https://tvonline.fm/tv-record/" target="_blank">
-            <h4>Rede Record Brasil</h4>
-            <img src="img/record.png" alt="Record">
-            <p>Site Streaming da Record Duvidoso</p>
-            </a>
-        </div>
-        <div class="section">
-            <a href="https://tvonline.fm/redetv/" target="_blank">
-            <h4>RedeTV</h4>
-            <img src="https://th.bing.com/th/id/R.88d2375d81ec0ff063a0119dd010069c?rik=rHCctTs5qM8HYA&pid=ImgRaw&r=0" alt="Glogo MT">
-            <p>Para! Para! Para!</p>
-            </a>
-        </div>
-        <div class="section">
-            <a href="https://www.youtube.com/@tvcancaonova" target="_blank">
-            <h4>Rede Canção Nova</h4>
-            <img src="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo-4.png" alt="Glogo MT">
-            <p>Canal do Youtube</p>
-            </a>
-        </div>
-        </div>
-    </div>
-    
-    <div class="category cat1">
-        <h3>Categoria 3</h3>
-        <div class="section-row">
-        <div class="section">
-            <h4>Seção 1</h4>
-            <img src="caminho/para/imagem1.png" alt="Imagem 1">
-            <p>Descrição 1</p>
-        </div>
-        <div class="section">
-            <h4>Seção 2</h4>
-            <img src="caminho/para/imagem2.png" alt="Imagem 2">
-            <p>Descrição 2</p>
-        </div>
-        <div class="section">
-            <h4>Seção 3</h4>
-            <img src="caminho/para/imagem3.png" alt="Imagem 3">
-            <p>Descrição 3</p>
-        </div>
-        </div>
-    </div>
+    <main>
+        <div class="category cat1">
+            <h3>TV Aberta</h3>
 
-    <div class="category cat2">
-        <h3>Categoria 4</h3>
-        <div class="section-row">
-        <div class="section">
-            <h4>Seção 1</h4>
-            <img src="caminho/para/imagem1.png" alt="Imagem 1">
-            <p>Descrição 1</p>
+            <div class="section-row tv-open"></div>
         </div>
-        <div class="section">
-            <h4>Seção 2</h4>
-            <img src="caminho/para/imagem2.png" alt="Imagem 2">
-            <p>Descrição 2</p>
+
+        <div class="category cat2">
+            <h3>Canais de Notícias</h3>
+
+            <div class="section-row channel-news"></div>
         </div>
-        <div class="section">
-            <h4>Seção 3</h4>
-            <img src="caminho/para/imagem3.png" alt="Imagem 3">
-            <p>Descrição 3</p>
+
+        <div class="category cat1">
+            <h3>Streaming</h3>
+
+            <div class="section-row streaming"></div>
         </div>
-        </div>
-    </div>
-</main>
-<footer>
-    <p>&copy; 2023 AlineTube. Todos os direitos reservados.</p>
-</footer>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 AlineTube. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script src="/script.js"></script>
 </body>
 </html>
