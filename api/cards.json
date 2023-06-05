@@ -75,6 +75,61 @@
       "image": "https://vgbr.com/wp-content/uploads/2018/10/1165px-Jovem_Pan_FM_logo.svg_.png",
       "imageAlt": "Jovem Pan News",
       "description": "Canal do Youtube"
+    },
+
+    {
+      "id": "8",
+      "category": "tvOpen",
+      "title": "RedeTV",
+      "link": "https://tvonline.fm/redetv/",
+      "target": "",
+      "image": "https://th.bing.com/th/id/R.88d2375d81ec0ff063a0119dd010069c?rik=rHCctTs5qM8HYA&pid=ImgRaw&r=0",
+      "imageAlt": "RedeTV",
+      "description": "Canal do Youtube"
+    },
+
+    {
+      "id": "9",
+      "category": "tvOpen",
+      "title": "Rede Canção Nova",
+      "link": "https://www.youtube.com/@tvcancaonova",
+      "target": "",
+      "image": "https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo-4.png",
+      "imageAlt": "Rede Canção Nova",
+      "description": "Canal do Youtube"
+    },
+
+    {
+      "id": "10",
+      "category": "channelNews",
+      "title": "Record News",
+      "link": "https://www.youtube.com/@recordnews",
+      "target": "",
+      "image": "https://th.bing.com/th/id/R.c768d9bdee411035209141e526306b6a?rik=yAxRqfeCz2qbkQ&pid=ImgRaw&r=0g",
+      "imageAlt": "Record News",
+      "description": "Canal do Youtube"
+    },
+
+    {
+      "id": "11",
+      "category": "streaming",
+      "title": "Pluto TV",
+      "link": "https://pluto.tv/pt/",
+      "target": "",
+      "image": "https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",
+      "imageAlt": "Pluto TV",
+      "description": "Portal de Canais de TV"      
+    },
+
+    {
+      "id": "12",
+      "category": "streaming",
+      "title": "Supertv Ao Vivo",
+      "link": "https://supertvaovivo.tv/",
+      "target": "",
+      "image": "https://clipground.com/images/pirates-of-the-caribbean-logo-png-2.png",
+      "imageAlt": "Supertv Ao Vivo",
+      "description": "Portal de Canais"      
     }
   ]
 }
