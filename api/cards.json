@@ -48,7 +48,7 @@
       "id": "5",
       "category": "tvOpen",
       "title": "Rede Bandeirantes Brasil",
-      "link": "https://www.band.uol.com.br/ao-vivo",
+      "link": "https://supertvaovivo.tv/band/",
       "target": "",
       "image": "img/band.png",
       "imageAlt": "Bandeirantes",
@@ -130,6 +130,39 @@
       "image": "https://clipground.com/images/pirates-of-the-caribbean-logo-png-2.png",
       "imageAlt": "Supertv Ao Vivo",
       "description": "Portal de Canais"      
+    },
+
+    {
+      "id": "13",
+      "category": "outroStreaming",
+      "title": "FuraFlix",
+      "link": "https://furiaflix.net/",
+      "target": "",
+      "image": "https://furiaflix.net/wp-content/uploads/logo.png",
+      "imageAlt": "FuraFlix",
+      "description": "Netflix do Paraguai"      
+    },
+
+    {
+      "id": "14",
+      "category": "outroStreaming",
+      "title": "MeteFlix",
+      "link": "https://meteflix.online/",
+      "target": "",
+      "image": "https://meteflix.online/public/static/logo.png",
+      "imageAlt": "MeteFlix",
+      "description": "Outro Netflix do Paraguai"      
+    },
+
+    {
+      "id": "15",
+      "category": "outroStreaming",
+      "title": "Anitube",
+      "link": "https://www.anitube.biz/",
+      "target": "",
+      "image": "https://www.anitube.biz/wp-content/themes/anitube_sarthemes/img/logo.png",
+      "imageAlt": "Anitube",
+      "description": "Anime"      
     }
   ]
 }
