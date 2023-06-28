@@ -39,7 +39,10 @@ function createCard(item) {
     card = 'channel-news'
 
   if (category === 'streaming')
-    card = 'streaming'
+  card = 'streaming'
+
+  if (category === 'outroStreaming')
+  card = 'outroStreaming'
 
   $('.' + card).append(innerHTML)
 }
