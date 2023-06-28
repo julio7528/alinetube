@@ -163,6 +163,17 @@
       "image": "https://www.anitube.biz/wp-content/themes/anitube_sarthemes/img/logo.png",
       "imageAlt": "Anitube",
       "description": "Anime"      
-    }
+    },
+
+    {
+      "id": "16",
+      "category": "outroStreaming",
+      "title": "SuperFlix",
+      "link": "https://superflix.me/",
+      "target": "",
+      "image": "https://superflix.me/wp-content/uploads/2020/08/final.png",
+      "imageAlt": "SuperFlix",
+      "description": "SuperFlix"      
+    }    
   ]
 }
